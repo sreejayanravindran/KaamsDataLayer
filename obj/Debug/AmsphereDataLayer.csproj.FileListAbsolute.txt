@@ -1,0 +1,7 @@
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Debug\AmsphereDataLayer.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Debug\AmsphereDataLayer.pdb
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Debug\EntityFramework.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Debug\EntityFramework.xml
+C:\sree\mvc2\entity\AmsphereDataLayer\obj\Debug\AmsphereDataLayer.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\obj\Debug\AmsphereDataLayer.pdb
+C:\sree\mvc2\entity\AmsphereDataLayer\obj\Debug\AmsphereDataLayer.csprojResolveAssemblyReference.cache

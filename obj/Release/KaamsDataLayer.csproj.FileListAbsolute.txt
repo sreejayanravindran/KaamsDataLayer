@@ -1,0 +1,6 @@
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Release\KaamsDataLayer.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Release\KaamsDataLayer.pdb
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Release\EntityFramework.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\bin\Release\EntityFramework.xml
+C:\sree\mvc2\entity\AmsphereDataLayer\obj\Release\KaamsDataLayer.dll
+C:\sree\mvc2\entity\AmsphereDataLayer\obj\Release\KaamsDataLayer.pdb

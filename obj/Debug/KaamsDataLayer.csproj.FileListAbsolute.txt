@@ -1,0 +1,6 @@
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\bin\Debug\KaamsDataLayer.dll
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\bin\Debug\KaamsDataLayer.pdb
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\obj\Debug\KaamsDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\obj\Debug\KaamsDataLayer.dll
+C:\Users\anthony.fortunatov\Desktop\KaamsDataLayer\obj\Debug\KaamsDataLayer.pdb
